@@ -14,7 +14,6 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadityaprasad1304&" alt="aadityaprasad1304" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aadityaprasad1304&label=Profile%20views&color=0e75b6&style=flat" alt="aadityaprasad1304" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
