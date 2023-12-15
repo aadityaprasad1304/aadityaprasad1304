@@ -6,9 +6,9 @@
 
 <p align="center">
 - 🌱 I’m currently learning **React, Next JS**
-
+<p align="center">
 - 📫 How to reach me **adityaprasad74@gmail.com** 
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
