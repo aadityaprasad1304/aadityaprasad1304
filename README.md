@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityaprasad1304&label=Profile%20views&color=0e75b6&style=flat" alt="aadityaprasad1304" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadityaprasad1304" alt="aadityaprasad1304" /></a> </p>
 
 - 🌱 I’m currently learning **React, Next JS**
 
