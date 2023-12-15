@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to my Github Portfolio</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+I+am+Aditya+Prasad;Front+End+Developer;Machine-Learning+Enthusiast;Information+Technology+Student+at+VIT,Vellore;Aspiring+Software+Developer;Active+Learner"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+I+am+Aditya+Prasad;Front+End+Developer;Machine+Learning+Enthusiast;Information+Technology+Student+at+VIT,Vellore;Aspiring+Software+Developer;Active+Learner"></a>
 </p>
 
 
@@ -18,9 +18,8 @@
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=aadityaprasad1304&show_icons=true&locale=en" alt="aadityaprasad1304" style="width=50px; height = 30px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadityaprasad1304&show_icons=true&locale=en" alt="aadityaprasad1304" style="width=50px; height = 30px"/>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aadityaprasad1304&" alt="aadityaprasad1304" />
 
 <br>
 <br>
