@@ -1,4 +1,4 @@
-<script src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c.js"></script>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2FMedRedha%2Ffd8e2481bde2610c96b9aafde543879c&psig=AOvVaw34q05JVRTXPnCgPRWl-ExU&ust=1702702725474000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjCqY_UkIMDFQAAAAAdAAAAABAJ">
 <h1 align="center">Hi 👋, I'm Aditya Prasad</h1>
 <h3 align="center">Deep Learning | Front End Developer</h3>
 
