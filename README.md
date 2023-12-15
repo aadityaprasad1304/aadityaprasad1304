@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c#file-coding-gif](https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c#file-coding-gif)">
+<img align="right" alt="Coding" width="400" src="<script src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c.js"></script>">
 <h1 align="center">Hi 👋, I'm Aditya Prasad</h1>
 <h3 align="center">Deep Learning | Front End Developer</h3>
 
