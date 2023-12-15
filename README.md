@@ -14,14 +14,14 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadityaprasad1304&show_icons=true&locale=en&layout=compact" alt="aadityaprasad1304" /></p>
 <br>
 <p align="center">
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadityaprasad1304&show_icons=true&locale=en" alt="aadityaprasad1304" /></p>
-<br>
-<p align="center">
 
+
+
+<p align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadityaprasad1304&" alt="aadityaprasad1304" /></p>
 
-<hr>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
