@@ -56,5 +56,6 @@ Hi, I'm Aditya Prasad!
 <p align="center">
 <a href="https://linkedin.com/in/adityaprasad1143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityaprasad1143" height="30" width="40" /></a>
 <a href="https://instagram.com/adiitya_74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adiitya_74" height="30" width="40" /></a>
+<a href="adityaprasad1143@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagramgmail.svg" alt="adiitya" height="30" width="40" /></a>
 </p>
 
