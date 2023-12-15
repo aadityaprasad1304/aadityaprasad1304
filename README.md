@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKr0w2rhjvdWFc-xGgQbIFJX1j7ChbR7HZoQKmv274NWdTZH5k2pa8JalhwBQIy6zfQMo&usqp=CAU" alt="Full-width image with margin" style=" margin: 0 10px; display: block;">
+
 
 <h1 align="center">Hi 👋, I'm Aditya Prasad</h1>
 <h3 align="center">Deep Learning | Front End Developer</h3>
