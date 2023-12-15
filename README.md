@@ -24,9 +24,9 @@
 
 <div align="center">
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadityaprasad1304&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/himakshi2209)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadityaprasad1304&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/aadityaprasad1304)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaprasad1304&layout=compact&theme=radical)](https://github.com/himakshi2209)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaprasad1304&layout=compact&theme=radical)](https://github.com/aadityaprasad1304)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadityaprasad1304&theme=radical)
 
