@@ -2,10 +2,9 @@
 <h1 align="center">Welcome to my Github Portfolio</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+I+am+Aditya+Prasad;Machine-Learning+Enthusiast;Information+Technology+Student+at+VIT,Vellore;Aspiring+Software+Developer;Active+Learner"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+I+am+Aditya+Prasad;Front-End+Developer;Machine-Learning+Enthusiast;Information+Technology+Student+at+VIT,Vellore;Aspiring+Software+Developer;Active+Learner"></a>
 </p>
-<h1 align="center">Hi 👋, I'm Aditya Prasad</h1>
-<h3 align="center">Deep Learning | Front End Developer</h3>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aadityaprasad1304&label=Profile%20views&color=0e75b6&style=flat" alt="aadityaprasad1304" /> </p>
 
