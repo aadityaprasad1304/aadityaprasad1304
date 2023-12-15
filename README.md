@@ -2,12 +2,13 @@
 <h1 align="center">Hi 👋, I'm Aditya Prasad</h1>
 <h3 align="center">Deep Learning | Front End Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityaprasad1304&label=Profile%20views&color=0e75b6&style=flat" alt="aadityaprasad1304" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aadityaprasad1304&label=Profile%20views&color=0e75b6&style=flat" alt="aadityaprasad1304" /> </p>
 
-
+<p align="center">
 - 🌱 I’m currently learning **React, Next JS**
 
-- 📫 How to reach me **adityaprasad74@gmail.com**
+- 📫 How to reach me **adityaprasad74@gmail.com** 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
