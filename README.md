@@ -22,7 +22,7 @@ Hi, I'm Aditya Prasad!
 💻 I am a self taught Machine Learning and Front-End Developer
 📚 I have a Bachelors in Information Technology
 📝 I have a strong interest in Data Science and Artificial Intelligence
-🌱 I have interned with NTPC Limited and lately Srinklr
+🌱 I have interned with NTPC Limited and lately, Srinklr
 🌟 Main languages: Python, C++, Java
 🤔 I’m currently open for: <b>An Internship</b> 
 </pre>
