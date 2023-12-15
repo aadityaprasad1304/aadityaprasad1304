@@ -1,3 +1,4 @@
+<img src="your-image.jpg" alt="Full-width image with margin" style="width: 100vw; margin: 0 10px; display: block;">
 
 <h1 align="center">Hi 👋, I'm Aditya Prasad</h1>
 <h3 align="center">Deep Learning | Front End Developer</h3>
