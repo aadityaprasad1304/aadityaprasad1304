@@ -6,10 +6,10 @@ Hi, I'm Aditya Prasad!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<h1 align="center">Welcome to my Github Portfolio</h1>
+
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ex+Intern+SPRINKLR;Front+End+Developer;Machine+Learning+Enthusiast;+IT+Student+at+VIT,Vellore;Aspiring+Software+Developer;Active+Learner"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ex+Intern+SPRINKLR;Welcome+to+my+Github+Portfolio;Front+End+Developer;Machine+Learning+Enthusiast;+IT+Student+at+VIT,Vellore;Aspiring+Software+Developer;Active+Learner"></a>
 </p>
 
 
